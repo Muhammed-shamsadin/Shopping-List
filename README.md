@@ -22,8 +22,8 @@ A simple web application built with HTML, CSS, and JavaScript for managing a dyn
 - Start managing your shopping list directly in the browser.
 
 ## Screenshots
-![Screenshot 1](path-to-screenshot.png)
-![Screenshot 2](path-to-screenshot.png)
+![Screenshot 1](ShoppingList.png)
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
